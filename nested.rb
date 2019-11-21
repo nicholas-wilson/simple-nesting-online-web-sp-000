@@ -83,7 +83,6 @@ def adding_matz
      }
   programmer_hash[:yukihiro_matsumoto] = "dog"
 	puts programmer_hash[:yukihiro_matsumoto]
-	binding.pry
   programmer_hash
 end
 
